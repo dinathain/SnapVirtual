@@ -1,0 +1,16 @@
+C:\Users\dintha\source\repos\Personal\SnapVirtual\Snap\obj\Debug\netcoreapp3.1\Snap.csprojAssemblyReference.cache
+C:\Users\dintha\source\repos\Personal\SnapVirtual\Snap\obj\Debug\netcoreapp3.1\Snap.AssemblyInfoInputs.cache
+C:\Users\dintha\source\repos\Personal\SnapVirtual\Snap\obj\Debug\netcoreapp3.1\Snap.AssemblyInfo.cs
+C:\Users\dintha\source\repos\Personal\SnapVirtual\Snap\bin\Debug\netcoreapp3.1\Snap.exe
+C:\Users\dintha\source\repos\Personal\SnapVirtual\Snap\bin\Debug\netcoreapp3.1\Snap.deps.json
+C:\Users\dintha\source\repos\Personal\SnapVirtual\Snap\bin\Debug\netcoreapp3.1\Snap.runtimeconfig.json
+C:\Users\dintha\source\repos\Personal\SnapVirtual\Snap\bin\Debug\netcoreapp3.1\Snap.runtimeconfig.dev.json
+C:\Users\dintha\source\repos\Personal\SnapVirtual\Snap\bin\Debug\netcoreapp3.1\Snap.dll
+C:\Users\dintha\source\repos\Personal\SnapVirtual\Snap\bin\Debug\netcoreapp3.1\Snap.pdb
+C:\Users\dintha\source\repos\Personal\SnapVirtual\Snap\obj\Debug\netcoreapp3.1\Snap.dll
+C:\Users\dintha\source\repos\Personal\SnapVirtual\Snap\obj\Debug\netcoreapp3.1\Snap.pdb
+C:\Users\dintha\source\repos\Personal\SnapVirtual\Snap\obj\Debug\netcoreapp3.1\Snap.genruntimeconfig.cache
+C:\Users\dintha\source\repos\Personal\SnapVirtual\Snap\obj\Debug\netcoreapp3.1\Snap.csproj.CoreCompileInputs.cache
+C:\Users\dintha\source\repos\Personal\SnapVirtual\Snap\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dintha\source\repos\Personal\SnapVirtual\Snap\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dintha\source\repos\Personal\SnapVirtual\Snap\obj\Debug\netcoreapp3.1\Snap.csproj.CopyComplete

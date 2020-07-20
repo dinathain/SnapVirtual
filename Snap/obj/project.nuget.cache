@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BaObGx/vNF9IWgqnG98yPGF0+FG0qaoGPlYMfYyEL2wBzRBYAZrX8QTc5GRWFTyhGXUFcSZ7detz80gD4dhP/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dintha\\source\\repos\\Personal\\SnapVirtual\\Snap\\Snap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dintha\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6\\microsoft.extensions.dependencyinjection.3.1.6.nupkg.sha512",
+    "C:\\Users\\dintha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\microsoft.extensions.dependencyinjection.abstractions.3.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}
